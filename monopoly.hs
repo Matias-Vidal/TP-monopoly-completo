@@ -1,4 +1,4 @@
-import Data.List
+import Data.List 
 import Text.Show.Functions 
 
 type Propiedad = (String,Int) 
